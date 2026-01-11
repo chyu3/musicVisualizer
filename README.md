@@ -1,4 +1,4 @@
-## Case study 3: Audio visualiser
+## Finals: Audio visualiser
 
 In this case study you will be completing a simple music visualisation
 program that contains three separate visualisations.
